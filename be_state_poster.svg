@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#1e2946"/>
+    </linearGradient>
+    <style>
+      .t{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif;fill:#f3f8ff}
+      .m{font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",sans-serif;fill:#b9c8e8}
+    </style>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#bg)"/>
+  <text x="120" y="170" class="t" font-size="92" font-weight="800">英语 be 的底层思维海报</text>
+  <text x="120" y="255" class="t" font-size="48" fill="#65d6ff">be = 把主语放进“状态 / 空间 / 关系 / 变化”中</text>
+
+  <rect x="100" y="300" width="3640" height="250" rx="28" fill="#121a33" stroke="#2f4f88" stroke-width="4"/>
+  <text x="150" y="395" class="t" font-size="52" font-weight="700">万能公式：主语 + be + 状态/位置/关系（不是动作）</text>
+  <text x="150" y="475" class="t" font-size="44">先问自己：我是在说“做了什么”，还是“现在处于什么情况”？</text>
+
+  <!-- columns -->
+  <g transform="translate(100,620)">
+    <rect width="860" height="1240" rx="24" fill="#111a2f" stroke="#1f6feb" stroke-width="4"/>
+    <rect x="20" y="18" width="820" height="80" rx="14" fill="#1f6feb"/>
+    <text x="40" y="72" class="t" font-size="44" font-weight="700">A 工作场景</text>
+    <text x="40" y="160" class="t" font-size="34">1. I am available after 3 PM.</text><text x="60" y="200" class="m" font-size="28">我3点后有空（可用状态）</text>
+    <text x="40" y="260" class="t" font-size="34">2. The report is ready.</text><text x="60" y="300" class="m" font-size="28">报告准备好了（完成状态）</text>
+    <text x="40" y="360" class="t" font-size="34">3. We are behind schedule.</text><text x="60" y="400" class="m" font-size="28">我们进度落后（位置隐喻）</text>
+    <text x="40" y="460" class="t" font-size="34">4. The server is down.</text><text x="60" y="500" class="m" font-size="28">服务器挂了（不可用状态）</text>
+    <text x="40" y="560" class="t" font-size="34">5. I am under pressure.</text><text x="60" y="600" class="m" font-size="28">我压力很大（受压状态）</text>
+  </g>
+
+  <g transform="translate(1020,620)">
+    <rect width="860" height="1240" rx="24" fill="#111a2f" stroke="#2ea043" stroke-width="4"/>
+    <rect x="20" y="18" width="820" height="80" rx="14" fill="#2ea043"/>
+    <text x="40" y="72" class="t" font-size="44" font-weight="700">B 社交场景</text>
+    <text x="40" y="160" class="t" font-size="34">1. She is in a good mood.</text><text x="60" y="200" class="m" font-size="28">她心情好（情绪容器）</text>
+    <text x="40" y="260" class="t" font-size="34">2. I am late.</text><text x="60" y="300" class="m" font-size="28">我迟到了（时间状态）</text>
+    <text x="40" y="360" class="t" font-size="34">3. We are on the same page.</text><text x="60" y="400" class="m" font-size="28">我们想法一致（同页隐喻）</text>
+    <text x="40" y="460" class="t" font-size="34">4. He is into jazz.</text><text x="60" y="500" class="m" font-size="28">他迷爵士（兴趣关系）</text>
+    <text x="40" y="560" class="t" font-size="34">5. They are in a relationship.</text><text x="60" y="600" class="m" font-size="28">他们在交往（关系容器）</text>
+  </g>
+
+  <g transform="translate(1940,620)">
+    <rect width="860" height="1240" rx="24" fill="#111a2f" stroke="#d29922" stroke-width="4"/>
+    <rect x="20" y="18" width="820" height="80" rx="14" fill="#d29922"/>
+    <text x="40" y="72" class="t" font-size="44" font-weight="700">C 学习考试</text>
+    <text x="40" y="160" class="t" font-size="34">1. I am stuck on question 5.</text><text x="60" y="200" class="m" font-size="28">我卡在第5题（卡住状态）</text>
+    <text x="40" y="260" class="t" font-size="34">2. My answer is wrong.</text><text x="60" y="300" class="m" font-size="28">我的答案错了（判定状态）</text>
+    <text x="40" y="360" class="t" font-size="34">3. The question is tricky.</text><text x="60" y="400" class="m" font-size="28">这题刁钻（属性状态）</text>
+    <text x="40" y="460" class="t" font-size="34">4. I am confident.</text><text x="60" y="500" class="m" font-size="28">我有信心（心理状态）</text>
+    <text x="40" y="560" class="t" font-size="34">5. I am not familiar with this topic.</text><text x="60" y="600" class="m" font-size="28">我对这个主题不熟（关系状态）</text>
+  </g>
+
+  <g transform="translate(2860,620)">
+    <rect width="860" height="1240" rx="24" fill="#111a2f" stroke="#bf3989" stroke-width="4"/>
+    <rect x="20" y="18" width="820" height="80" rx="14" fill="#bf3989"/>
+    <text x="40" y="72" class="t" font-size="44" font-weight="700">D 自我状态</text>
+    <text x="40" y="160" class="t" font-size="34">1. I am exhausted.</text><text x="60" y="200" class="m" font-size="28">我累坏了（生理状态）</text>
+    <text x="40" y="260" class="t" font-size="34">2. I am in trouble.</text><text x="60" y="300" class="m" font-size="28">我有麻烦了（处境容器）</text>
+    <text x="40" y="360" class="t" font-size="34">3. I am lost.</text><text x="60" y="400" class="m" font-size="28">我迷路/迷茫（定位状态）</text>
+    <text x="40" y="460" class="t" font-size="34">4. I am getting better.</text><text x="60" y="500" class="m" font-size="28">我正在变好（变化过程）</text>
+    <text x="40" y="560" class="t" font-size="34">5. I am proud of myself.</text><text x="60" y="600" class="m" font-size="28">我为自己骄傲（情绪关系）</text>
+  </g>
+
+  <rect x="100" y="1910" width="3640" height="170" rx="20" fill="#0f1730" stroke="#355ca8" stroke-width="3"/>
+  <text x="140" y="1980" class="t" font-size="44" fill="#a5ddff">三步内化法：① 每天5句 be 日记 ② 二选一纠偏（动作 vs 状态） ③ 三连改写（同义状态句）</text>
+  <text x="140" y="2040" class="t" font-size="44">核心提醒：先说“处于什么状态”，再考虑“做了什么动作”。</text>
+</svg>
